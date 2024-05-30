@@ -1,0 +1,12 @@
+{
+  "name": "behinds-the-scenes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "event-loop.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shailendra",
+  "license": "ISC"
+}
